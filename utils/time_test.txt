@@ -1,0 +1,36 @@
+from time import sleep as slp
+from main import TelaCM
+
+class con:
+	def conometro(self):
+		for count in range(int(TelaCM.Iniciar(self.value['tInicial'])), -1, -1):
+			print(count)
+			slp(1)
+
+cnm = con()
+cnm.conometro()
+print(cnm)
+
+def tic():
+    rel = time.strftime('%H:%M:%S')
+tic()
+
+def tac():
+    tic()
+    rel = tac()
+tac()
+
+class conometroControl:
+	def __init__(self):
+		pass
+
+	def conometro(self):
+		self.value = 0
+		for count in range(self.value, -1, -1):
+			print(count)
+			slp(1)
+		return str(self.value)
+
+cnm = conometroControl()
+cnm.conometro()
+print(cnm)

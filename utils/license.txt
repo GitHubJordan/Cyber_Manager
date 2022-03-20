@@ -1,0 +1,67 @@
+CyberManager
+
+É um programa que serve para controlar o tempo de uso da máquina enquanto
+o cliente usufrui do tempo que lhe foi confiado no Computador ou da Internet.
+
+É muito fácil de usar
+
+Antes de qualquer coisa é necessário que cries uma conta de usuário.
+
+Depois;
+1º - defina o tempo de uso da máquina que o cliente quer;
+2º - escolha as opções que queira que o programa faça quando o tempo do cliente terminar.
+	as opções são:
+		a) BLOQUEAR O COMPUTADOR
+		b) DESLIGAR A INTERNET
+		C) DESLIGAR O COMPUTADOR
+3º - Pressiona o botão START
+
+É muito importante que escolhas uma das opções, isso para que o cliente não 
+usufrua da Internet ou o Computador quando o tempo terminar.
+
+NOTA: Quando o tempo do cliente terminar, o programa exige que atives a internet
+isso se selecionou a opção DESLIGAR A INTERNET, ele requer que digite a senha de
+seguranção do programa que é  "admin_2".
+
+O Programa CyberManager foi feito e elaborado por
+Jordan Adelino
+Técnico:
+Técnico de Informática
+Técnico de Hardware & Software
+Técnico de Marketing Digital
+Progarmador:
+Python
+C, C++, C#
+HTML
+CSS
+JavaScript
+...
+
+Desenvolvedor de Web Sites, Aplicativos, 
+Formador :
+Informática
+Excel Avançado
+Access
+Gestão Comercial
+Operador de Caixa
+Hardware & Software
+...
+
+===============================================================================
+Contatos/telefone
+(+244) 946 008 215
+(+244) 932 003 228
+
+Gmail: jordanadelino@gmail.com
+Hotmail: jordanadelino@hotmail.com
+Yahoo: jordanadelino@yahoo.com
+
+Facebook: Jordan Adelino - https://facebook.com/jordan.adelino.98
+Instagram: @jordan_adelino - https://instagram.com/jordan_adelino
+Twitter: @adelino_jordan - https://twitter.com/adelino_jordan
+
+Blog: Meu blogue - https:jordanadelino.blogspot.com
+
+©Copyright 2021 JAMy COMPANY. Todos os Direitos Reservados
+
+
